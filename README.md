@@ -1,70 +1,126 @@
-# Getting Started with Create React App
+# The Spirit Nerds Trivia Quiz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive trivia quiz application focused on spirits, cocktails, and beverage knowledge.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Multiple-choice quiz format with timed questions
+- Beautiful animated UI with glass-morphism design
+- Detailed explanations for each answer
+- Score tracking and results summary
+- Mobile-responsive design
+- Leaderboard functionality
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js for UI components
+- Styled Components for styling
+- Framer Motion for animations
+- Local Storage for saving progress
+- React Router for navigation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js (v14 or higher)
+- npm or yarn
 
-### `npm run build`
+### Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/spirits-trivia-quiz.git
+   cd spirits-trivia-quiz
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
+   ```
+   npm install
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start the development server:
+   ```
+   npm start
+   ```
 
-### `npm run eject`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Deployment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+We've made deployment easy with multiple options:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Quick Deploy
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Use our deployment script to deploy to your platform of choice:
 
-## Learn More
+```bash
+# Make the script executable first
+chmod +x scripts/deploy.sh
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Deploy to GitHub Pages
+./scripts/deploy.sh --github
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Deploy to Netlify
+./scripts/deploy.sh --netlify
 
-### Code Splitting
+# Deploy to Vercel
+./scripts/deploy.sh --vercel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Get help
+./scripts/deploy.sh --help
+```
 
-### Analyzing the Bundle Size
+### Manual Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+For detailed deployment instructions, see our [Deployment Guide](./DEPLOYMENT.md).
 
-### Making a Progressive Web App
+## Development
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Project Structure
 
-### Advanced Configuration
+```
+spirits-trivia-quiz/
+├── public/              # Static files
+├── src/                 # Source files
+│   ├── components/      # React components
+│   ├── pages/           # Page components
+│   ├── hooks/           # Custom React hooks
+│   ├── context/         # React context providers
+│   ├── data/            # Quiz questions and data
+│   ├── styles/          # Global styles
+│   ├── utils/           # Utility functions
+│   ├── App.js           # Main App component
+│   └── index.js         # Entry point
+├── scripts/             # Utility scripts including deployment
+└── package.json         # Dependencies and scripts
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Available Scripts
 
-### Deployment
+- `npm start` - Runs the app in development mode
+- `npm test` - Launches the test runner
+- `npm run build` - Builds the app for production
+- `npm run eject` - Ejects from Create React App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contributing
 
-### `npm run build` fails to minify
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- All contributors and maintainers
+- The spirits and cocktail community for inspiration
+- Open source libraries and tools used in this project
+
+---
+
+© The Spirit Nerds

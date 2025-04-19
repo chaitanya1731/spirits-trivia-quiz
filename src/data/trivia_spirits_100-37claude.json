@@ -1,0 +1,1192 @@
+{
+    "trivia": [
+        {
+            "question": "What is the main ingredient in traditional whiskey?",
+            "options": {
+                "a": "Potatoes",
+                "b": "Grains",
+                "c": "Grapes",
+                "d": "Sugar cane"
+            },
+            "correct": "b",
+            "explanation": "Traditional whiskey is made primarily from fermented grain mash, which may include barley, corn, rye, and wheat."
+        },
+        {
+            "question": "Which country is most associated with the origin of vodka?",
+            "options": {
+                "a": "France",
+                "b": "Russia",
+                "c": "Italy",
+                "d": "Japan"
+            },
+            "correct": "b",
+            "explanation": "Though debated between Russia and Poland, Russia has the strongest historical claim to vodka's origins, dating back to the 9th century."
+        },
+        {
+            "question": "What plant is tequila made from?",
+            "options": {
+                "a": "Blue agave",
+                "b": "Sugar cane",
+                "c": "Wheat",
+                "d": "Potatoes"
+            },
+            "correct": "a",
+            "explanation": "Authentic tequila is made specifically from the blue agave plant, primarily in the area surrounding the city of Tequila, Mexico."
+        },
+        {
+            "question": "In which country was gin first developed?",
+            "options": {
+                "a": "England",
+                "b": "France",
+                "c": "Netherlands",
+                "d": "Germany"
+            },
+            "correct": "c",
+            "explanation": "Gin was developed in the Netherlands in the 17th century as a medicinal liquor called jenever, from which gin evolved."
+        },
+        {
+            "question": "What is the main flavor ingredient in gin?",
+            "options": {
+                "a": "Lemon peel",
+                "b": "Juniper berries",
+                "c": "Anise",
+                "d": "Cinnamon"
+            },
+            "correct": "b",
+            "explanation": "Juniper berries are the primary botanical used to flavor gin, giving it its distinctive taste."
+        },
+        {
+            "question": "Which spirit is traditionally made from fermented and distilled rice?",
+            "options": {
+                "a": "Whiskey",
+                "b": "Vodka",
+                "c": "Sake",
+                "d": "Rum"
+            },
+            "correct": "c",
+            "explanation": "Sake is a traditional Japanese rice wine made by fermenting rice that has been polished to remove the bran."
+        },
+        {
+            "question": "What was the period from 1920 to 1933 in the United States called when alcohol was banned?",
+            "options": {
+                "a": "The Great Depression",
+                "b": "The Prohibition",
+                "c": "The Temperance",
+                "d": "The Abstinence"
+            },
+            "correct": "b",
+            "explanation": "The Prohibition was a nationwide constitutional ban on the production, importation, transportation, and sale of alcoholic beverages in the United States."
+        },
+        {
+            "question": "What is the main ingredient in traditional rum?",
+            "options": {
+                "a": "Grapes",
+                "b": "Sugarcane byproducts",
+                "c": "Potatoes",
+                "d": "Wheat"
+            },
+            "correct": "b",
+            "explanation": "Rum is primarily made from sugarcane byproducts such as molasses or sugarcane juice through fermentation and distillation."
+        },
+        {
+            "question": "Which country is credited with inventing bourbon whiskey?",
+            "options": {
+                "a": "Scotland",
+                "b": "Ireland",
+                "c": "United States",
+                "d": "Canada"
+            },
+            "correct": "c",
+            "explanation": "Bourbon whiskey was developed in the United States, specifically in Kentucky, in the 18th century."
+        },
+        {
+            "question": "What is the main ingredient in cognac?",
+            "options": {
+                "a": "Grapes",
+                "b": "Barley",
+                "c": "Corn",
+                "d": "Agave"
+            },
+            "correct": "a",
+            "explanation": "Cognac is a variety of brandy made from white grapes grown in the Cognac region of France."
+        },
+        {
+            "question": "Which Mexican spirit is made from the heart of the maguey plant?",
+            "options": {
+                "a": "Tequila",
+                "b": "Mezcal",
+                "c": "Pulque",
+                "d": "Raicilla"
+            },
+            "correct": "b",
+            "explanation": "Mezcal is made from the heart (piña) of various species of maguey (agave) plants, giving it a distinctive smoky flavor."
+        },
+        {
+            "question": "What is the traditional base spirit for a Martini cocktail?",
+            "options": {
+                "a": "Vodka",
+                "b": "Rum",
+                "c": "Gin",
+                "d": "Whiskey"
+            },
+            "correct": "c",
+            "explanation": "The traditional Martini cocktail is made with gin and vermouth, though vodka variations have become popular."
+        },
+        {
+            "question": "Which Caribbean country is famous for producing Mount Gay rum?",
+            "options": {
+                "a": "Jamaica",
+                "b": "Barbados",
+                "c": "Cuba",
+                "d": "Puerto Rico"
+            },
+            "correct": "b",
+            "explanation": "Mount Gay Rum is produced by the Mount Gay Distillery in Barbados, which claims to be the world's oldest existing rum producer."
+        },
+        {
+            "question": "What grain is traditionally used to make Scotch whisky?",
+            "options": {
+                "a": "Corn",
+                "b": "Rye",
+                "c": "Malted barley",
+                "d": "Wheat"
+            },
+            "correct": "c",
+            "explanation": "Traditional Scotch single malt whisky is made exclusively from malted barley, though blended Scotch may include other grains."
+        },
+        {
+            "question": "Which country produces Pisco, a grape brandy?",
+            "options": {
+                "a": "Spain",
+                "b": "Mexico",
+                "c": "Peru and Chile",
+                "d": "Italy"
+            },
+            "correct": "c",
+            "explanation": "Both Peru and Chile produce and claim to be the original home of Pisco, a type of brandy made from grapes."
+        },
+        {
+            "question": "What is the minimum aging period for a spirit to be called Cognac?",
+            "options": {
+                "a": "No minimum",
+                "b": "2 years",
+                "c": "5 years",
+                "d": "10 years"
+            },
+            "correct": "b",
+            "explanation": "Cognac must be aged for at least two years in French oak barrels to be legally called Cognac."
+        },
+        {
+            "question": "Which herb traditionally gives absinthe its characteristic green color?",
+            "options": {
+                "a": "Mint",
+                "b": "Anise",
+                "c": "Wormwood",
+                "d": "Rosemary"
+            },
+            "correct": "c",
+            "explanation": "Absinthe derives its natural green color and much of its flavor from wormwood (Artemisia absinthium)."
+        },
+        {
+            "question": "In which country did sake originate?",
+            "options": {
+                "a": "China",
+                "b": "Korea",
+                "c": "Japan",
+                "d": "Thailand"
+            },
+            "correct": "c",
+            "explanation": "Sake originated in Japan with its earliest recorded production dating back to the 3rd century."
+        },
+        {
+            "question": "What is the primary ingredient in traditional Polish vodka?",
+            "options": {
+                "a": "Potatoes",
+                "b": "Rye",
+                "c": "Wheat",
+                "d": "Corn"
+            },
+            "correct": "b",
+            "explanation": "Traditional Polish vodka was primarily made from rye grain, though other grains and potatoes are also used in modern production."
+        },
+        {
+            "question": "Which spirit is flavored with anise and commonly consumed in Mediterranean countries?",
+            "options": {
+                "a": "Sambuca",
+                "b": "Whiskey",
+                "c": "Gin",
+                "d": "Rum"
+            },
+            "correct": "a",
+            "explanation": "Sambuca is an Italian anise-flavored liqueur that is commonly consumed in Mediterranean countries."
+        },
+        {
+            "question": "What is the main ingredient in traditional Swedish aquavit?",
+            "options": {
+                "a": "Juniper berries",
+                "b": "Caraway seeds",
+                "c": "Anise",
+                "d": "Lemon peel"
+            },
+            "correct": "b",
+            "explanation": "Caraway is the dominant spice in most traditional aquavit recipes, though dill and fennel are also common."
+        },
+        {
+            "question": "Which country first produced port wine?",
+            "options": {
+                "a": "Spain",
+                "b": "Portugal",
+                "c": "France",
+                "d": "Italy"
+            },
+            "correct": "b",
+            "explanation": "Port wine originated in the Douro Valley of Portugal, and is named after the city of Porto."
+        },
+        {
+            "question": "What is the key botanical ingredient in Campari?",
+            "options": {
+                "a": "Orange peel",
+                "b": "Rhubarb",
+                "c": "Gentian",
+                "d": "Cherry"
+            },
+            "correct": "c",
+            "explanation": "While the recipe is secret, gentian root is known to be a key botanical ingredient giving Campari its bitter flavor."
+        },
+        {
+            "question": "Which spirit is the base for the cocktail Mojito?",
+            "options": {
+                "a": "Gin",
+                "b": "Vodka",
+                "c": "Tequila",
+                "d": "Rum"
+            },
+            "correct": "d",
+            "explanation": "A traditional Mojito cocktail is made with white rum, along with lime, mint, sugar, and soda water."
+        },
+        {
+            "question": "What gives 'smoky' flavor to certain Scotch whiskies?",
+            "options": {
+                "a": "Oak aging",
+                "b": "Peat fires",
+                "c": "Charcoal filtering",
+                "d": "Salt water"
+            },
+            "correct": "b",
+            "explanation": "The smoky flavor in Scotch, particularly from Islay, comes from malting barley over peat fires, which imparts phenolic compounds."
+        },
+        {
+            "question": "Which area in France must sparkling wine come from to be called Champagne?",
+            "options": {
+                "a": "Bordeaux",
+                "b": "Loire Valley",
+                "c": "Champagne region",
+                "d": "Provence"
+            },
+            "correct": "c",
+            "explanation": "By law, only sparkling wine produced in the Champagne region of France can be labeled as Champagne."
+        },
+        {
+            "question": "What type of container is traditionally used to age bourbon?",
+            "options": {
+                "a": "Used oak barrels",
+                "b": "New charred oak barrels",
+                "c": "Steel tanks",
+                "d": "Clay pots"
+            },
+            "correct": "b",
+            "explanation": "By U.S. law, bourbon must be aged in new charred oak barrels, unlike Scotch which can use previously used barrels."
+        },
+        {
+            "question": "Which Italian bitter liqueur is the key ingredient in a Negroni cocktail?",
+            "options": {
+                "a": "Amaro Montenegro",
+                "b": "Fernet-Branca",
+                "c": "Aperol",
+                "d": "Campari"
+            },
+            "correct": "d",
+            "explanation": "A classic Negroni is made with equal parts gin, sweet vermouth, and Campari, garnished with orange peel."
+        },
+        {
+            "question": "In which country was the distilled spirit 'soju' first developed?",
+            "options": {
+                "a": "Japan",
+                "b": "China",
+                "c": "Korea",
+                "d": "Thailand"
+            },
+            "correct": "c",
+            "explanation": "Soju originated in Korea during the 13th century, introduced by Mongol invaders who brought Persian distillation techniques."
+        },
+        {
+            "question": "What is cachaça?",
+            "options": {
+                "a": "A Brazilian spirit made from sugarcane juice",
+                "b": "A Mexican corn liquor",
+                "c": "A French apple brandy",
+                "d": "A Japanese rice wine"
+            },
+            "correct": "a",
+            "explanation": "Cachaça is a Brazilian spirit made from fermented sugarcane juice, and is the main ingredient in the caipirinha cocktail."
+        },
+        {
+            "question": "Which famous rum distillery is located in Havana, Cuba?",
+            "options": {
+                "a": "Appleton Estate",
+                "b": "Bacardi",
+                "c": "Havana Club",
+                "d": "Mount Gay"
+            },
+            "correct": "c",
+            "explanation": "Havana Club is a brand of rum created in Cuba in 1934 and is now produced in Santa Cruz del Norte by Havana Club International."
+        },
+        {
+            "question": "Which spirit is traditionally the base for a Sazerac cocktail?",
+            "options": {
+                "a": "Bourbon",
+                "b": "Rye whiskey",
+                "c": "Cognac",
+                "d": "Scotch"
+            },
+            "correct": "b",
+            "explanation": "While the original Sazerac was made with cognac, the modern classic version typically uses rye whiskey as its base spirit."
+        },
+        {
+            "question": "What is the primary ingredient in traditional ouzo?",
+            "options": {
+                "a": "Grapes",
+                "b": "Olives",
+                "c": "Anise",
+                "d": "Citrus"
+            },
+            "correct": "c",
+            "explanation": "Ouzo, the traditional Greek aperitif, is flavored primarily with anise, giving it its distinctive licorice taste."
+        },
+        {
+            "question": "From which plant is pulque made?",
+            "options": {
+                "a": "Corn",
+                "b": "Agave",
+                "c": "Sugarcane",
+                "d": "Wheat"
+            },
+            "correct": "b",
+            "explanation": "Pulque is a traditional Mexican alcoholic beverage made from the fermented sap of various species of agave plants."
+        },
+        {
+            "question": "Which region in Scotland is known for producing the most heavily peated whiskies?",
+            "options": {
+                "a": "Speyside",
+                "b": "Highlands",
+                "c": "Lowlands",
+                "d": "Islay"
+            },
+            "correct": "d",
+            "explanation": "The island of Islay is famous for its heavily peated whiskies with distinctive smoky and medicinal characteristics."
+        },
+        {
+            "question": "What is the traditional base spirit for a Manhattan cocktail?",
+            "options": {
+                "a": "Gin",
+                "b": "Vodka",
+                "c": "Rye whiskey",
+                "d": "Bourbon"
+            },
+            "correct": "c",
+            "explanation": "A classic Manhattan is made with rye whiskey, sweet vermouth, and bitters, though bourbon is sometimes used as a substitute."
+        },
+        {
+            "question": "Which of these is NOT a required ingredient for a spirit to be called bourbon?",
+            "options": {
+                "a": "At least 51% corn in the mash bill",
+                "b": "Aged in new charred oak barrels",
+                "c": "Produced in Kentucky",
+                "d": "Distilled to no more than 160 proof"
+            },
+            "correct": "c",
+            "explanation": "Despite popular belief, bourbon can legally be produced anywhere in the United States, not just Kentucky, provided it meets other requirements."
+        },
+        {
+            "question": "What is the name of the traditional Finnish spirit made from grain or potatoes?",
+            "options": {
+                "a": "Akvavit",
+                "b": "Koskenkorva",
+                "c": "Finlandia",
+                "d": "Salmari"
+            },
+            "correct": "b",
+            "explanation": "Koskenkorva is a traditional Finnish vodka-like spirit that has been produced since 1953, made from barley grain or potatoes."
+        },
+        {
+            "question": "What alcohol concentration must whiskey be distilled to in order to be called Scotch whisky?",
+            "options": {
+                "a": "Less than 80% ABV",
+                "b": "Less than 85% ABV",
+                "c": "Less than 90% ABV",
+                "d": "Less than 94.8% ABV"
+            },
+            "correct": "d",
+            "explanation": "According to regulations, Scotch whisky must be distilled at an alcohol concentration of less than 94.8% ABV."
+        },
+        {
+            "question": "Which spirit is the main ingredient in a classic Bloody Mary cocktail?",
+            "options": {
+                "a": "Gin",
+                "b": "Vodka",
+                "c": "Rum",
+                "d": "Tequila"
+            },
+            "correct": "b",
+            "explanation": "A classic Bloody Mary cocktail is made with vodka, tomato juice, and various spices and flavorings."
+        },
+        {
+            "question": "Which country produces Amarula liqueur, made from the fruit of the marula tree?",
+            "options": {
+                "a": "Mexico",
+                "b": "Italy",
+                "c": "South Africa",
+                "d": "Brazil"
+            },
+            "correct": "c",
+            "explanation": "Amarula is a cream liqueur from South Africa, made with sugar, cream, and the fruit of the African marula tree."
+        },
+        {
+            "question": "What is the minimum aging requirement for reposado tequila?",
+            "options": {
+                "a": "No aging required",
+                "b": "At least 2 months",
+                "c": "At least 6 months",
+                "d": "At least 1 year"
+            },
+            "correct": "b",
+            "explanation": "Reposado tequila must be aged for at least two months, but less than a year, in oak barrels."
+        },
+        {
+            "question": "Which spirit is traditionally used in a classic Irish Coffee?",
+            "options": {
+                "a": "Scotch whisky",
+                "b": "Irish whiskey",
+                "c": "Bourbon",
+                "d": "Brandy"
+            },
+            "correct": "b",
+            "explanation": "A traditional Irish Coffee combines hot coffee, Irish whiskey, sugar, and topped with cream."
+        },
+        {
+            "question": "What is the main ingredient in traditional shochu from Japan?",
+            "options": {
+                "a": "Rice",
+                "b": "Sweet potato",
+                "c": "Barley",
+                "d": "All of the above"
+            },
+            "correct": "d",
+            "explanation": "Traditional Japanese shochu can be made from rice, sweet potato, barley, and other ingredients depending on the region."
+        },
+        {
+            "question": "Which country is the birthplace of the anise-flavored spirit raki?",
+            "options": {
+                "a": "Greece",
+                "b": "Turkey",
+                "c": "Lebanon",
+                "d": "Italy"
+            },
+            "correct": "b",
+            "explanation": "Raki is an anise-flavored spirit that originated in Turkey and is considered the national drink."
+        },
+        {
+            "question": "What was the original use of the spirit we now know as gin?",
+            "options": {
+                "a": "Religious ceremonies",
+                "b": "Medicinal purposes",
+                "c": "Preservation of food",
+                "d": "Celebration of harvests"
+            },
+            "correct": "b",
+            "explanation": "Gin originated as a medicinal liquor made by monks and alchemists across Europe, particularly in Italy."
+        },
+        {
+            "question": "Which spirit would you traditionally use to make a Mint Julep?",
+            "options": {
+                "a": "Gin",
+                "b": "Rum",
+                "c": "Bourbon",
+                "d": "Vodka"
+            },
+            "correct": "c",
+            "explanation": "A classic Mint Julep is made with bourbon, sugar, water, crushed ice, and fresh mint."
+        },
+        {
+            "question": "Which spirit is the main ingredient in a classic Margarita?",
+            "options": {
+                "a": "Rum",
+                "b": "Vodka",
+                "c": "Gin",
+                "d": "Tequila"
+            },
+            "correct": "d",
+            "explanation": "A classic Margarita is made with tequila, orange liqueur (such as Cointreau), and lime juice."
+        },
+        {
+            "question": "What is the minimum aging requirement for a VS (Very Special) Cognac?",
+            "options": {
+                "a": "No minimum",
+                "b": "2 years",
+                "c": "4 years",
+                "d": "6 years"
+            },
+            "correct": "b",
+            "explanation": "VS (Very Special) Cognac must be aged for at least two years in oak casks."
+        },
+        {
+            "question": "What is the main difference between Cognac and Armagnac?",
+            "options": {
+                "a": "The grape varieties used",
+                "b": "The region they're produced in",
+                "c": "The distillation method",
+                "d": "All of the above"
+            },
+            "correct": "d",
+            "explanation": "Cognac and Armagnac differ in their production regions within France, grape varieties used, and distillation methods (Armagnac traditionally uses a single distillation)."
+        },
+        {
+            "question": "Which is the traditional spirit of the Caucasus region, especially Georgia?",
+            "options": {
+                "a": "Vodka",
+                "b": "Chacha",
+                "c": "Raki",
+                "d": "Ouzo"
+            },
+            "correct": "b",
+            "explanation": "Chacha is a grape-based spirit (pomace brandy) traditionally produced in Georgia, similar to Italian grappa."
+        },
+        {
+            "question": "What is the main ingredient in the Swedish spirit Absolut Vodka?",
+            "options": {
+                "a": "Potatoes",
+                "b": "Wheat",
+                "c": "Rye",
+                "d": "Corn"
+            },
+            "correct": "b",
+            "explanation": "Absolut Vodka is made exclusively from winter wheat grown in southern Sweden."
+        },
+        {
+            "question": "Which ingredient gives Campari its red color in modern production?",
+            "options": {
+                "a": "Cochineal insects",
+                "b": "Artificial coloring",
+                "c": "Hibiscus",
+                "d": "Cherries"
+            },
+            "correct": "b",
+            "explanation": "Since 2006, Campari has used artificial coloring. Previously, the red color came from carmine dye derived from cochineal insects."
+        },
+        {
+            "question": "What is the legal minimum alcohol content for spirits in the European Union?",
+            "options": {
+                "a": "30% ABV",
+                "b": "35% ABV",
+                "c": "37.5% ABV",
+                "d": "40% ABV"
+            },
+            "correct": "c",
+            "explanation": "In the EU, spirits must contain at least 37.5% ABV (alcohol by volume) to be legally marketed as spirits."
+        },
+        {
+            "question": "Which country is known for producing the spirit Aquavit?",
+            "options": {
+                "a": "Russia",
+                "b": "Germany",
+                "c": "Sweden",
+                "d": "France"
+            },
+            "correct": "c",
+            "explanation": "While Aquavit is produced throughout Scandinavia, it is particularly associated with Sweden, Denmark, and Norway."
+        },
+        {
+            "question": "What is the traditional base for the spirit 'Grappa'?",
+            "options": {
+                "a": "Wheat",
+                "b": "Grape pomace",
+                "c": "Potatoes",
+                "d": "Corn"
+            },
+            "correct": "b",
+            "explanation": "Grappa is an Italian pomace brandy made from the distillation of grape pomace (skins, pulp, seeds, and stems) left over from winemaking."
+        },
+        {
+            "question": "What is the main difference between Tennessee whiskey and bourbon?",
+            "options": {
+                "a": "The mash bill ingredients",
+                "b": "The charcoal filtering process",
+                "c": "The aging requirements",
+                "d": "The distillation method"
+            },
+            "correct": "b",
+            "explanation": "Tennessee whiskey, like Jack Daniel's, undergoes a charcoal filtering process known as the Lincoln County Process before barrel aging."
+        },
+        {
+            "question": "Which spirit is traditionally used to make a Piña Colada?",
+            "options": {
+                "a": "Vodka",
+                "b": "White rum",
+                "c": "Tequila",
+                "d": "Gin"
+            },
+            "correct": "b",
+            "explanation": "A classic Piña Colada is made with white rum, coconut cream, and pineapple juice."
+        },
+        {
+            "question": "What is the primary fruit used to make traditional sloe gin?",
+            "options": {
+                "a": "Blackberries",
+                "b": "Sloe berries",
+                "c": "Elderberries",
+                "d": "Blueberries"
+            },
+            "correct": "b",
+            "explanation": "Sloe gin is a red liqueur made with gin and sloe berries (the fruit of the blackthorn bush)."
+        },
+        {
+            "question": "Which country produces Singani, a type of brandy?",
+            "options": {
+                "a": "Spain",
+                "b": "Portugal",
+                "c": "Bolivia",
+                "d": "Chile"
+            },
+            "correct": "c",
+            "explanation": "Singani is a type of brandy produced in Bolivia from Muscat of Alexandria grapes."
+        },
+        {
+            "question": "What is the minimum age requirement for a 'straight bourbon whiskey'?",
+            "options": {
+                "a": "No minimum age",
+                "b": "2 years",
+                "c": "4 years",
+                "d": "6 years"
+            },
+            "correct": "b",
+            "explanation": "Straight bourbon must be aged for at least 2 years, and if aged for less than 4 years, the age must be stated on the label."
+        },
+        {
+            "question": "Which herb is traditionally used to flavor the French spirit absinthe?",
+            "options": {
+                "a": "Mint",
+                "b": "Tarragon",
+                "c": "Wormwood",
+                "d": "Sage"
+            },
+            "correct": "c",
+            "explanation": "Absinthe is traditionally prepared with wormwood (Artemisia absinthium), anise, fennel, and other herbs."
+        },
+        {
+            "question": "What is the base ingredient for Metaxa, a Greek spirit?",
+            "options": {
+                "a": "Grape brandy",
+                "b": "Grain",
+                "c": "Potatoes",
+                "d": "Anise"
+            },
+            "correct": "a",
+            "explanation": "Metaxa is a blend of brandy made from sun-dried Savatiano, Sultanina and Black Corinth wine grapes, aged wine, and Mediterranean botanicals."
+        },
+        {
+            "question": "Which spirit is traditionally used to make a Moscow Mule cocktail?",
+            "options": {
+                "a": "Gin",
+                "b": "Whiskey",
+                "c": "Vodka",
+                "d": "Rum"
+            },
+            "correct": "c",
+            "explanation": "A traditional Moscow Mule is made with vodka, spicy ginger beer, and lime juice, garnished with a lime wedge."
+        },
+        {
+            "question": "What is the main ingredient in traditional Armenian brandy?",
+            "options": {
+                "a": "Wheat",
+                "b": "Grapes",
+                "c": "Apples",
+                "d": "Pomegranates"
+            },
+            "correct": "b",
+            "explanation": "Armenian brandy, often called 'konyak', is made from white grapes grown in the Ararat Valley."
+        },
+        {
+            "question": "Which distillery produces Laphroaig, known for its intensely peaty Scotch whisky?",
+            "options": {
+                "a": "Glenfiddich",
+                "b": "Macallan",
+                "c": "Laphroaig",
+                "d": "Glenlivet"
+            },
+            "correct": "c",
+            "explanation": "Laphroaig distillery is located on Islay and produces some of the most intensely peated Scotch whiskies."
+        },
+        {
+            "question": "What is the minimum age requirement for a XO (Extra Old) Cognac as of 2018?",
+            "options": {
+                "a": "6 years",
+                "b": "8 years",
+                "c": "10 years",
+                "d": "12 years"
+            },
+            "correct": "c",
+            "explanation": "Since 2018, XO (Extra Old) Cognac must be aged for at least 10 years. Previously, the requirement was 6 years."
+        },
+        {
+            "question": "What is the traditional base for the spirit 'Calvados'?",
+            "options": {
+                "a": "Grapes",
+                "b": "Apples",
+                "c": "Wheat",
+                "d": "Potatoes"
+            },
+            "correct": "b",
+            "explanation": "Calvados is an apple brandy from the Normandy region in France, made from cider distilled from specially grown and selected apples."
+        },
+        {
+            "question": "Which country is the primary producer of the spirit 'Pisco'?",
+            "options": {
+                "a": "Argentina",
+                "b": "Chile and Peru",
+                "c": "Spain",
+                "d": "Mexico"
+            },
+            "correct": "b",
+            "explanation": "Both Peru and Chile produce and claim Pisco as their national spirit, with ongoing disputes over its origin."
+        },
+        {
+            "question": "What is the main ingredient in traditional baijiu from China?",
+            "options": {
+                "a": "Rice",
+                "b": "Sorghum",
+                "c": "Wheat",
+                "d": "Millet"
+            },
+            "correct": "b",
+            "explanation": "Traditional baijiu, China's national spirit, is primarily made from fermented sorghum, though some varieties use rice, wheat, or other grains."
+        },
+        {
+            "question": "What is the process called when whiskey is aged in barrels that previously held other spirits or wine?",
+            "options": {
+                "a": "Double aging",
+                "b": "Cask finishing",
+                "c": "Secondary maturation",
+                "d": "Barrel transfer"
+            },
+            "correct": "b",
+            "explanation": "Cask finishing involves transferring whiskey that has matured in one barrel into another barrel (such as a sherry or port cask) for additional aging."
+        },
+        {
+            "question": "Which spirit is used in a traditional Daiquiri cocktail?",
+            "options": {
+                "a": "Gin",
+                "b": "Vodka",
+                "c": "White rum",
+                "d": "Tequila"
+            },
+            "correct": "c",
+            "explanation": "A classic Daiquiri is made with white rum, lime juice, and sugar or simple syrup."
+        },
+        {
+            "question": "Which country is the birthplace of the anise-flavored spirit pastis?",
+            "options": {
+                "a": "Italy",
+                "b": "Greece",
+                "c": "France",
+                "d": "Spain"
+            },
+            "correct": "c",
+            "explanation": "Pastis is an anise-flavored spirit that originated in France, particularly popular in the Mediterranean regions."
+        },
+        {
+            "question": "Which traditional Caribbean spirit is made with overproof rum and cannabis?",
+            "options": {
+                "a": "Bumbo",
+                "b": "Mamajuana",
+                "c": "Rum Bullion",
+                "d": "Ganja juice"
+            },
+            "correct": "b",
+            "explanation": "Mamajuana is a Dominican drink made by soaking rum, red wine, honey, and tree bark and herbs (sometimes including cannabis) in a bottle."
+        },
+        {
+            "question": "What was the 'Angel's Share' referring to in spirit aging?",
+            "options": {
+                "a": "The first portion from the still",
+                "b": "The amount given to clergy as tax",
+                "c": "The amount lost to evaporation during aging",
+                "d": "The spirit reserved for religious ceremonies"
+            },
+            "correct": "c",
+            "explanation": "The 'Angel's Share' refers to the portion of whiskey or other spirits that evaporates through the porous barrel during aging."
+        },
+        {
+            "question": "Which spirit is the base for a traditional Cosmopolitan cocktail?",
+            "options": {
+                "a": "Gin",
+                "b": "Vodka",
+                "c": "Rum",
+                "d": "Tequila"
+            },
+            "correct": "b",
+            "explanation": "A classic Cosmopolitan cocktail is made with vodka, triple sec, cranberry juice, and freshly squeezed lime juice."
+        },
+        {
+            "question": "Which country is the origin of the spirit 'Arrack'?",
+            "options": {
+                "a": "India",
+                "b": "Sri Lanka",
+                "c": "Indonesia",
+                "d": "All of these regions"
+            },
+            "correct": "d",
+            "explanation": "Arrack is produced across South and Southeast Asia, with variations in India, Sri Lanka, Indonesia, and other countries in the region."
+        },
+        {
+            "question": "What is unique about the production of mezcal compared to most other spirits?",
+            "options": {
+                "a": "It's fermented underground",
+                "b": "It's cooked in pit ovens before fermentation",
+                "c": "It's filtered through charcoal",
+                "d": "It's aged in clay pots"
+            },
+            "correct": "b",
+            "explanation": "Traditional mezcal production involves cooking the agave hearts in underground pit ovens, which gives it a distinctive smoky flavor."
+        },
+        {
+            "question": "Which American president established a commercial distillery after his presidency?",
+            "options": {
+                "a": "George Washington",
+                "b": "Thomas Jefferson",
+                "c": "Andrew Jackson",
+                "d": "Abraham Lincoln"
+            },
+            "correct": "a",
+            "explanation": "George Washington established a commercial whiskey distillery at Mount Vernon after his presidency, which became one of the largest in America."
+        },
+        {
+            "question": "What type of still is traditionally used to make single malt Scotch?",
+            "options": {
+                "a": "Column still",
+                "b": "Pot still",
+                "c": "Alembic still",
+                "d": "Reflux still"
+            },
+            "correct": "b",
+            "explanation": "Traditional single malt Scotch whisky is distilled in copper pot stills, which retain more flavor compounds than continuous column stills."
+        },
+        {
+            "question": "What is 'poitín' (poteen)?",
+            "options": {
+                "a": "A Russian vodka",
+                "b": "A traditional Irish spirit",
+                "c": "A French grape brandy",
+                "d": "A Scottish whisky variety"
+            },
+            "correct": "b",
+            "explanation": "Poitín is a traditional Irish distilled beverage, historically made in small pot stills, often from malted barley, grain, or potatoes."
+        },
+        {
+            "question": "Which spirit is used in a traditional Pisco Sour cocktail?",
+            "options": {
+                "a": "Rum",
+                "b": "Pisco",
+                "c": "Tequila",
+                "d": "Vodka"
+            },
+            "correct": "b",
+            "explanation": "A classic Pisco Sour is made with Pisco, lime juice, simple syrup, egg white, and bitters."
+        },
+        {
+            "question": "What historical event led to the European absinthe ban in the early 20th century?",
+            "options": {
+                "a": "World War I",
+                "b": "The Great Depression",
+                "c": "A murder case involving a Swiss farmer",
+                "d": "A papal decree"
+            },
+            "correct": "c",
+            "explanation": "In 1905, Jean Lanfray, a Swiss farmer, murdered his family after drinking absinthe (and much other alcohol), which led to bans across Europe."
+        },
+        {
+            "question": "Which spirit is the national drink of Brazil?",
+            "options": {
+                "a": "Rum",
+                "b": "Pisco",
+                "c": "Cachaça",
+                "d": "Tequila"
+            },
+            "correct": "c",
+            "explanation": "Cachaça is considered the national spirit of Brazil and is the main ingredient in the country's national cocktail, the caipirinha."
+        },
+        {
+            "question": "What is the difference between 'blended' and 'single malt' Scotch whisky?",
+            "options": {
+                "a": "The age of the spirits",
+                "b": "Single malt comes from one distillery, blended comes from multiple",
+                "c": "The type of barrel used for aging",
+                "d": "The region where it's produced"
+            },
+            "correct": "b",
+            "explanation": "Single malt Scotch is made from 100% malted barley from a single distillery, while blended Scotch combines whiskies from multiple distilleries."
+        },
+        {
+            "question": "What historically significant development made gin widely available to the poor in 18th century England?",
+            "options": {
+                "a": "The Gin Act of 1736",
+                "b": "The end of import taxes",
+                "c": "The invention of column stills",
+                "d": "The abolition of distilling licenses"
+            },
+            "correct": "d",
+            "explanation": "In the early 18th century, the government allowed unlicensed gin production while imposing heavy duties on imported spirits, leading to the 'Gin Craze'."
+        },
+        {
+            "question": "Which spirit is traditionally used in a classic Old Fashioned cocktail?",
+            "options": {
+                "a": "Gin",
+                "b": "Vodka",
+                "c": "Bourbon or rye whiskey",
+                "d": "Rum"
+            },
+            "correct": "c",
+            "explanation": "A classic Old Fashioned cocktail is made with bourbon or rye whiskey, sugar, bitters, and a twist of citrus peel."
+        },
+        {
+            "question": "What is 'Umeshu'?",
+            "options": {
+                "a": "A Korean rice spirit",
+                "b": "A Japanese plum liqueur",
+                "c": "A Chinese white spirit",
+                "d": "A Thai herbal infusion"
+            },
+            "correct": "b",
+            "explanation": "Umeshu is a Japanese liqueur made by steeping unripe Japanese plums (ume) in alcohol and sugar."
+        },
+        {
+            "question": "Which ingredient is used to make the blue color in Blue Curaçao?",
+            "options": {
+                "a": "Blue agave",
+                "b": "Blueberries",
+                "c": "Artificial coloring",
+                "d": "Blue curaçao fruit"
+            },
+            "correct": "c",
+            "explanation": "Blue Curaçao gets its distinctive color from artificial blue food coloring; the flavor comes from dried peels of the laraha citrus fruit."
+        },
+        {
+            "question": "What is 'The Macallan' known for in the whisky world?",
+            "options": {
+                "a": "Being the oldest distillery in Scotland",
+                "b": "Its sherry cask maturation",
+                "c": "Being the most peated whisky",
+                "d": "Being the most affordable luxury brand"
+            },
+            "correct": "b",
+            "explanation": "The Macallan is particularly known for its extensive use of sherry casks for maturation, which gives its whiskies a distinctive rich, fruity character."
+        },
+        {
+            "question": "What is used to give Chartreuse liqueur its distinctive flavor and color?",
+            "options": {
+                "a": "Grapes and artificial coloring",
+                "b": "130 herbs, plants and flowers",
+                "c": "Mint and wormwood",
+                "d": "Citrus and food coloring"
+            },
+            "correct": "b",
+            "explanation": "Chartreuse is made by Carthusian monks using a secret recipe of 130 herbs, plants and flowers, with the recipe dating back to 1605."
+        },
+        {
+            "question": "Which country produces the most vodka globally?",
+            "options": {
+                "a": "Sweden",
+                "b": "Poland",
+                "c": "Russia",
+                "d": "United States"
+            },
+            "correct": "c",
+            "explanation": "Russia has historically been the largest producer of vodka in the world, though exact production figures can vary year-to-year."
+        },
+        {
+            "question": "What is sake traditionally served in?",
+            "options": {
+                "a": "Ceramic cups (ochoko)",
+                "b": "Glass tumblers",
+                "c": "Metal chalices",
+                "d": "Wooden boxes (masu)"
+            },
+            "correct": "a",
+            "explanation": "Sake is traditionally served in small ceramic cups called ochoko, though wooden boxes (masu) are also sometimes used, especially for ceremonial purposes."
+        },
+        {
+            "question": "What is the 'rectification' process in spirit production?",
+            "options": {
+                "a": "Filtering through charcoal",
+                "b": "Redistillation to increase purity",
+                "c": "Adding flavoring after distillation",
+                "d": "Blending multiple batches"
+            },
+            "correct": "b",
+            "explanation": "Rectification is the process of redistilling a spirit to increase its purity and alcohol content, often used in vodka production."
+        },
+        {
+            "question": "Which country produces the most whiskey in the world?",
+            "options": {
+                "a": "Scotland",
+                "b": "United States",
+                "c": "Japan",
+                "d": "India"
+            },
+            "correct": "d",
+            "explanation": "India produces the most whiskey globally by volume, though much of it wouldn't meet the definitions for whiskey in Scotland or the United States."
+        },
+        {
+            "question": "What is the 'heads' in distillation?",
+            "options": {
+                "a": "The first portion of distillate that contains methanol and other volatiles",
+                "b": "The best part of the distillate",
+                "c": "The frothy foam on top of the fermentation",
+                "d": "The pure alcohol content"
+            },
+            "correct": "a",
+            "explanation": "The 'heads' are the first compounds to come off the still, containing methanol and other volatile compounds that are typically discarded as they can be toxic."
+        },
+        {
+            "question": "Which spirit is traditionally used in a classic Whiskey Sour?",
+            "options": {
+                "a": "Bourbon",
+                "b": "Scotch",
+                "c": "Irish whiskey",
+                "d": "Canadian whisky"
+            },
+            "correct": "a",
+            "explanation": "A classic Whiskey Sour is traditionally made with bourbon whiskey, lemon juice, and sugar, often with an optional egg white."
+        },
+        {
+            "question": "What is 'ouiski'?",
+            "options": {
+                "a": "A French whiskey",
+                "b": "A Canadian whisky variety",
+                "c": "A Japanese whisky",
+                "d": "An Irish whiskey brand"
+            },
+            "correct": "c",
+            "explanation": "Ouiski is the Japanese pronunciation of 'whisky,' reflecting Japan's significant adoption and adaptation of the Scottish whisky-making tradition."
+        },
+        {
+            "question": "Which cocktail was created during Prohibition to mask the poor quality of bathtub gin?",
+            "options": {
+                "a": "Martini",
+                "b": "Bee's Knees",
+                "c": "Old Fashioned",
+                "d": "Manhattan"
+            },
+            "correct": "b",
+            "explanation": "The Bee's Knees cocktail, made with gin, honey, and lemon juice, was created during Prohibition to mask the harsh taste of homemade spirits."
+        },
+        {
+            "question": "What is 'Feni'?",
+            "options": {
+                "a": "A Spanish sherry",
+                "b": "A Goan spirit made from cashew or coconut",
+                "c": "A Swedish herbal liqueur",
+                "d": "A Mexican corn whiskey"
+            },
+            "correct": "b",
+            "explanation": "Feni is a traditional spirit from Goa, India, made either from cashew apples (cashew feni) or coconut palm sap (coconut feni)."
+        },
+        {
+            "question": "What type of barrel is traditionally used to age Scotch whisky?",
+            "options": {
+                "a": "New charred oak barrels",
+                "b": "Previously used bourbon barrels",
+                "c": "Acacia wood barrels",
+                "d": "Maple wood barrels"
+            },
+            "correct": "b",
+            "explanation": "Scotch whisky is typically aged in previously used barrels, with ex-bourbon barrels from the United States being the most common."
+        },
+        {
+            "question": "What does 'proof' refer to in alcohol measurement?",
+            "options": {
+                "a": "The age of the spirit",
+                "b": "Twice the alcohol percentage by volume",
+                "c": "The quality certification",
+                "d": "The minimum legal alcohol content"
+            },
+            "correct": "b",
+            "explanation": "In the United States, proof is defined as twice the percentage of alcohol by volume. So 80 proof is 40% ABV."
+        },
+        {
+            "question": "Which Irish distillery produces Jameson whiskey?",
+            "options": {
+                "a": "Bushmills",
+                "b": "Tullamore",
+                "c": "Midleton",
+                "d": "Cooley"
+            },
+            "correct": "c",
+            "explanation": "While originally produced in Dublin, Jameson Irish Whiskey has been produced at the New Midleton Distillery in County Cork since the 1970s."
+        },
+        {
+            "question": "What is a 'solera' system used for?",
+            "options": {
+                "a": "Filtering spirits",
+                "b": "Aging sherry and rum",
+                "c": "Distilling tequila",
+                "d": "Fermenting whiskey mash"
+            },
+            "correct": "b",
+            "explanation": "The solera system is a process for aging liquids by fractional blending, most commonly used for sherry, rum, brandy, and sometimes whiskey."
+        },
+        {
+            "question": "When was vodka first introduced to the United States in significant quantities?",
+            "options": {
+                "a": "1700s",
+                "b": "1800s",
+                "c": "After World War II",
+                "d": "1990s"
+            },
+            "correct": "c",
+            "explanation": "Vodka became popular in the United States largely after World War II, with brands like Smirnoff marketing it heavily in the 1950s and 1960s."
+        },
+        {
+            "question": "What is 'the worm' in tequila bottles?",
+            "options": {
+                "a": "A marketing gimmick",
+                "b": "A caterpillar of the agave snout weevil",
+                "c": "A hallucination-inducing creature",
+                "d": "A traditional Mexican garnish"
+            },
+            "correct": "b",
+            "explanation": "The 'worm' (actually a larva) is the caterpillar of the agave snout weevil, traditionally found in some mezcal bottles, but not authentic tequila."
+        },
+        {
+            "question": "Which French region produces Cognac?",
+            "options": {
+                "a": "Bordeaux",
+                "b": "Champagne",
+                "c": "Charente",
+                "d": "Normandy"
+            },
+            "correct": "c",
+            "explanation": "Cognac is produced in the wine-growing region surrounding the town of Cognac in the Charente and Charente-Maritime departments of France."
+        },
+        {
+            "question": "What is the difference between a cordial and a liqueur?",
+            "options": {
+                "a": "Cordials are non-alcoholic, liqueurs contain alcohol",
+                "b": "Cordials are European, liqueurs are American",
+                "c": "There is no technical difference",
+                "d": "Cordials are fruit-based, liqueurs are herb-based"
+            },
+            "correct": "c",
+            "explanation": "In modern usage, there is no technical difference between cordials and liqueurs. In the US, 'cordial' often refers to fruit-flavored liqueurs, but this is not a strict rule."
+        }
+    ]
+}

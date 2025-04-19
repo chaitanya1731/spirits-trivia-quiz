@@ -2,14 +2,31 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="icon" href="%PUBLIC_URL%/cocktail-icon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
+    <meta name="theme-color" content="#121218" />
     <meta
       name="description"
-      content="Web site created using create-react-app"
+      content="Test your knowledge of spirits, cocktails, and drinks history with The Spirit Nerds trivia quiz. Challenge yourself with our interactive, timed questions and learn fascinating facts about your favorite drinks."
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <meta name="keywords" content="spirits, trivia, quiz, cocktails, whiskey, vodka, gin, rum, tequila, drinks, liquor, alcohol, mixology, bartending" />
+    <meta name="author" content="The Spirit Nerds" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://thespiritnerds.com/" />
+    <meta property="og:title" content="The Spirit Nerds | Spirits Trivia Quiz" />
+    <meta property="og:description" content="Test your knowledge of spirits and cocktails with our fun, interactive trivia quiz." />
+    <meta property="og:image" content="%PUBLIC_URL%/og-image.png" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://thespiritnerds.com/" />
+    <meta property="twitter:title" content="The Spirit Nerds | Spirits Trivia Quiz" />
+    <meta property="twitter:description" content="Test your knowledge of spirits and cocktails with our fun, interactive trivia quiz." />
+    <meta property="twitter:image" content="%PUBLIC_URL%/og-image.png" />
+    
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/cocktail-icon.svg" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -24,7 +41,31 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>The Spirit Nerds | Spirits Trivia Quiz</title>
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" 
+      crossorigin="anonymous"></script>
+      
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "The Spirit Nerds - Spirits Trivia Quiz",
+      "url": "https://thespiritnerds.com",
+      "description": "Test your knowledge of spirits, cocktails, and drinks history with The Spirit Nerds trivia quiz.",
+      "applicationCategory": "GameApplication",
+      "genre": "Quiz",
+      "image": "https://thespiritnerds.com/og-image.png",
+      "operatingSystem": "Web Browser",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
