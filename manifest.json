@@ -1,0 +1,25 @@
+{
+  "short_name": "Spirit Nerds",
+  "name": "The Spirit Nerds | Spirits Trivia Quiz",
+  "icons": [
+    {
+      "src": "cocktail-icon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "cocktail-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "cocktail-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#121218",
+  "background_color": "#121218"
+}

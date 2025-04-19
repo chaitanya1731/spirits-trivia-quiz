@@ -1,0 +1,36 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#121218"/>
+  
+  <!-- Grid Pattern -->
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(187, 134, 252, 0.05)" stroke-width="1"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Gradient Text Background -->
+  <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#6200ea"/>
+    <stop offset="50%" stop-color="#bb86fc"/>
+    <stop offset="75%" stop-color="#ffd740"/>
+    <stop offset="100%" stop-color="#6200ea"/>
+  </linearGradient>
+  
+  <!-- Title -->
+  <text x="600" y="250" font-family="Audiowide, sans-serif" font-size="80" font-weight="bold" text-anchor="middle" fill="url(#titleGradient)">The Spirit Nerds</text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="330" font-family="Exo 2, sans-serif" font-size="40" text-anchor="middle" fill="#e0e0ff">Spirits Trivia Quiz</text>
+  
+  <!-- Decorative Elements -->
+  <g transform="translate(400, 420)">
+    <path d="M8,2H16L15,7L16,14L12,18L8,14L9,7L8,2M3,22V20H6V16L10,12L12,14L8,18V20H16V18L12,14L14,12L18,16V20H21V22H3Z" fill="#bb86fc" transform="scale(5)"/>
+  </g>
+  
+  <g transform="translate(700, 420)">
+    <path d="M11.9997 3.00011L8.64971 9.00011H15.3497L11.9997 3.00011ZM11.9997 0.500107L18.4544 10.5001C18.8083 11.0713 18.6982 11.8122 18.1962 12.2511C17.9811 12.4119 17.7235 12.5001 17.4547 12.5001H6.54471C5.85269 12.5001 5.29471 11.9421 5.29471 11.2501C5.29471 10.9813 5.38295 10.7237 5.54374 10.5087L11.9997 0.500107ZM4.99971 14.0001H18.9997V16.0001H4.99971V14.0001ZM6.49971 17.0001H17.4997L11.9997 23.0001L6.49971 17.0001Z" fill="#ffd740" transform="scale(3)"/>
+  </g>
+  
+  <!-- URL -->
+  <text x="600" y="580" font-family="Exo 2, sans-serif" font-size="24" text-anchor="middle" fill="#e0e0ff">www.thespiritnerds.com</text>
+</svg> 

@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://thespiritnerds.com/sitemap.xml

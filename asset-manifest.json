@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spirits-trivia-quiz/static/css/main.392045e7.css",
+    "main.js": "/spirits-trivia-quiz/static/js/main.02675c82.js",
+    "index.html": "/spirits-trivia-quiz/index.html",
+    "main.392045e7.css.map": "/spirits-trivia-quiz/static/css/main.392045e7.css.map",
+    "main.02675c82.js.map": "/spirits-trivia-quiz/static/js/main.02675c82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.392045e7.css",
+    "static/js/main.02675c82.js"
+  ]
+}
